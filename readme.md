@@ -31,8 +31,8 @@ cd build
 valgrind --tool=callgrind  ./app/shell-app
 kcachegrind
 ```
-
 Open the ```callgrind.out.xxxx``` file in the GUI.
+
 
 ## Building for code coverage (for assignments beginning in Week 4)
 ```
